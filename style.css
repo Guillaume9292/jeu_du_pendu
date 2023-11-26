@@ -66,7 +66,7 @@ plateau{
 main{
     display: flex;
     flex-wrap: wrap;
-    background-color: #e9ecf5;
+    background-color: #fff;
     border: 1px solid #1f426c;
     padding: 20px;
     border-radius: 10px;
@@ -113,7 +113,7 @@ main2{
 #alphabox{
     display: flex;
     flex-wrap: wrap;
-    background-color: #e9ecf5;
+    background-color: #fff;
     border: 1px solid #1f426c;
     padding: 20px;
     border-radius: 10px;
@@ -128,7 +128,7 @@ main2{
 footer{
     display: flex;
     flex-wrap: wrap;
-    background-color: #e9ecf5;
+    background-color: #fff;
     border: 1px solid #1f426c;
     padding: 20px;
     border-radius: 10px;
